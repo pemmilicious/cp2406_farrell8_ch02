@@ -13,7 +13,7 @@ public class InchestoFeetInteractive {
         feet = inches / 12;
         inchesLeft = inches % 12;
         System.out.println(inches + " inches is " +
-                feet + " feet and " + inchesLeft + " inches");
+                feet + " feet annd " + inchesLeft + " inches");
     }
 
 }
